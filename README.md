@@ -1,0 +1,3 @@
+# deexdex-api
+
+`yarn test`
