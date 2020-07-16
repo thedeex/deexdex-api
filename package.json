@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://gitlab.deex.local/dev.null/deexdex-api.git"
+    "url": "https://github.com/thedeex/deexdex-api.git"
   },
   "author": ""
 }
